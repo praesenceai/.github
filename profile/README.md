@@ -2,7 +2,7 @@
 ![praesence-typeface-dark](https://github.com/user-attachments/assets/b7d87bd4-6add-4f17-bd1d-1077abf8ffb5#gh-dark-mode-only)
 
 ## Follow us
-- X: [@prasence_ai](https://x.com/praesence_ai)
+- X: [@praesence_ai](https://x.com/praesence_ai)
 - LinkedIn: [praesence](https://linkedin.com/company/praesence)
 
 ## Contribute
